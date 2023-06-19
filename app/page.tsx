@@ -2,8 +2,8 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      这是主页面
+    <main>
+      <h1>这是一个Next.js的项目</h1>
     </main>
   )
 }
